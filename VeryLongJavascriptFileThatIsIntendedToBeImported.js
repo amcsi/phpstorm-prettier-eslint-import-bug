@@ -1,1 +1,1 @@
-export const VeryLongJavascriptFileThatIsIntendedToBeImported = 42;
+export default 42;
