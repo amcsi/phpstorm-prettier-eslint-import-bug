@@ -1,0 +1,3 @@
+import VeryLongJavascriptFileThatIsIntendedToBeImported from './VeryLongJavascriptFileThatIsIntendedToBeImported';
+
+console.info(VeryLongJavascriptFileThatIsIntendedToBeImported);
